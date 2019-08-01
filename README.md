@@ -25,7 +25,7 @@ memoizedAdd(3, 4)
 
 ### Generator
 
-ES9 제너레이터
+ES6 제너레이터
 
 
 비동기 처리
@@ -61,6 +61,8 @@ g.next();
 ```
 
 ### async/awit (ES7)
+
+ES6 제너레이터 -> ES7 async/awit
 
 ```js
 const fetch = require('node-fetch');
