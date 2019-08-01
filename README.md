@@ -1,8 +1,6 @@
-# ES6: es6 sample
+## ES6: es6 sample
 
-## Resources
-
-## Memoization
+### Memoization
 
 ES6 메모제이션
 
